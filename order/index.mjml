@@ -1,0 +1,206 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" />
+    
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#f4f8fb">
+    
+    <!-- HEADER -->
+    
+    <mj-section background-color="#f4f8fb">
+    	<mj-column>
+      	<mj-image src="https://preview.ibb.co/euh9d9/amazon.png" width="100px"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <!-- END HEADER -->
+    
+    <!-- START BODY -->
+    
+    <!-- START CUSTOMER SECTION -->
+    
+    	<mj-section>
+    		<mj-column width="70%">
+      		<mj-text color="black" align="left" font-size="17px" font-weight="700" padding-bottom="5px">
+        		Thank you, Connor!
+        	</mj-text>
+        	<mj-text color="black" align="left" padding-top="10px">
+        		Your order has been accepted and is currently with our team.
+            We will notify you of any progress updates.
+        	</mj-text>
+      	</mj-column>
+      	<mj-column width="30%">
+      		<mj-text color="black" align="right" padding-bottom="0">
+        		Order ID: 
+        	</mj-text>
+      		<mj-text color="black" align="right" padding-top="15px">
+        		0000001
+        	</mj-text>
+      	</mj-column>
+    	</mj-section>
+    
+    <!-- END CUSTOMER SECTION -->
+    
+    <!-- START DIVIDER -->
+    
+    <mj-section padding="0">
+    	<mj-column>
+      <mj-image src="https://image.ibb.co/k9TRQp/divider.png" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <!-- END DIVIDER -->
+    
+    <!-- START PRODUCT ROW -->
+    
+    	<mj-section padding-top="0" padding-bottom="10px">
+    		<mj-column width="30%">
+        	<mj-image src="https://image.ibb.co/dZdRQp/macbook_pro.jpg"></mj-image>
+        </mj-column>
+        <mj-column width="50%" padding-left="0">
+          <mj-spacer height="20px"></mj-spacer>
+        	<mj-text color="black" align="left" padding-bottom="5">
+          	<strong>Apple 15‑inch MacBook Pro - Space Grey</strong>
+          </mj-text>
+          <mj-text color="black" align="left" padding-bottom="5">
+          	<strong>Quantity: </strong> 1
+          </mj-text>
+          <mj-text color="black" line-height="19px" align="left" padding-bottom="5">
+          	<strong>Expected Delivery Date: </strong> <br/>
+            Wednesday, 15th August, 2018
+          </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle" width="20%">
+          <mj-spacer height="50px"></mj-spacer>
+        	<mj-text align="right" color="#FF9900">
+          	<strong>£ 2439.99</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    
+    <!-- END PRODUCT ROW -->
+    
+     <!-- START PRODUCT ROW -->
+    
+    	<mj-section padding-top="0" padding-bottom="10px">
+    		<mj-column width="30%">
+        	<mj-image src="https://preview.ibb.co/eJcLkp/macbook_case.jpg"></mj-image>
+        </mj-column>
+        <mj-column width="50%" padding-left="0">
+          <mj-spacer height="20px"></mj-spacer>
+        	<mj-text align="left" padding-bottom="5">
+          	<strong>Incase 15" Hardshell Case for MacBook Pro</strong>
+          </mj-text>
+          <mj-text align="left" padding-bottom="5">
+          	<strong>Quantity: </strong> 1
+          </mj-text>
+          <mj-text line-height="19px" align="left" padding-bottom="5">
+          	<strong>Expected Delivery Date: </strong> <br/>
+            Wednesday, 15th August, 2018
+          </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle" width="20%">
+          <mj-spacer height="50px"></mj-spacer>
+        	<mj-text align="right" color="#FF9900">
+          	<strong>£ 34.95</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    
+    <!-- END PRODUCT ROW -->
+    
+     <!-- START PRODUCT ROW -->
+    
+    	<mj-section padding-top="0" padding-bottom="10px">
+    		<mj-column width="30%">
+        	<mj-image src="https://image.ibb.co/m0P0kp/macbook_charger.jpg"></mj-image>
+        </mj-column>
+        <mj-column width="50%" padding-left="0">
+          <mj-spacer height="20px"></mj-spacer>
+        	<mj-text align="left" padding-bottom="5">
+          	<strong>61W USB-C AC Adapter Charger for Apple MacBook Pro</strong>
+          </mj-text>
+          <mj-text align="left" padding-bottom="5">
+          	<strong>Quantity: </strong> 1
+          </mj-text>
+          <mj-text line-height="19px" font-size="13px" align="left" padding-bottom="5">
+          	<strong>Expected Delivery Date: </strong> <br/>
+            Wednesday, 15th August, 2018
+          </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle" width="20%">
+          <mj-spacer height="50px"></mj-spacer>
+        	<mj-text align="right" color="#FF9900">
+          	<strong>£ 34.95</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    
+    <!-- END PRODUCT ROW -->
+    
+    <!-- START TOTALS ROW -->
+    
+    <mj-section>
+    	<mj-column width="100%">
+        <mj-divider border-color="#F6F6F6" border-width="2px"></mj-divider>
+      </mj-column>
+      
+      <mj-column width="30%">
+        &nbsp;
+      </mj-column>
+      
+      <mj-column width="70%">
+      	<mj-table cellpadding="0" line-height="0">
+        	<tr style="margin: 0; padding: 0">
+          	<th style="padding: 0;" align="left">Shipping Costs</th>
+            <td style="padding: 0;">
+            	<p style="text-align: right;">£ 15.00</p>
+            </td>
+          </tr>
+        	<tr>
+          	<th style="padding: 0;" align="left">Discounts</th>
+            <td style="padding: 0;">
+            	<p style="text-align: right;">- £ 50.00</p>
+            </td>
+          </tr>
+        </mj-table>
+        
+        <mj-table cellpadding="0" line-height="0">
+        	<tr style="margin-top: 10px">
+          	<th style="padding: 0;" align="left">Shipping Costs</th>
+            <td style="padding: 0;">
+            	<p style="text-align: right;">£ 2,484.89</p>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      
+    	<mj-column width="100%">
+        <mj-divider border-color="#F6F6F6" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+    <!-- END TOTALS ROW -->
+    
+    <!-- START BUTTON ROW -->
+    <mj-section padding-top="0">
+    	<mj-column>
+        <mj-button color="white" background-color="#FF9900" width="60%" font-weight="700"  line-height="30px">
+      		TRACK MY ORDER
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END BUTTON ROW -->
+    
+    <!-- END BODY -->
+    
+  </mj-body>
+</mjml>
